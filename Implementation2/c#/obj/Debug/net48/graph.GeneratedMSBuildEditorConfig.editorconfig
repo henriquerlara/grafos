@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = graph
+build_property.ProjectDir = /home/henrique/Área de trabalho/grafos/graph/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

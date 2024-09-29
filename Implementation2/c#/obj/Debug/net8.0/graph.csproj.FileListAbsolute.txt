@@ -1,0 +1,42 @@
+/home/henrique/Área de trabalho/grafos/graph/bin/Debug/net8.0/graph
+/home/henrique/Área de trabalho/grafos/graph/bin/Debug/net8.0/graph.deps.json
+/home/henrique/Área de trabalho/grafos/graph/bin/Debug/net8.0/graph.runtimeconfig.json
+/home/henrique/Área de trabalho/grafos/graph/bin/Debug/net8.0/graph.dll
+/home/henrique/Área de trabalho/grafos/graph/bin/Debug/net8.0/graph.pdb
+/home/henrique/Área de trabalho/grafos/graph/obj/Debug/net8.0/graph.GeneratedMSBuildEditorConfig.editorconfig
+/home/henrique/Área de trabalho/grafos/graph/obj/Debug/net8.0/graph.AssemblyInfoInputs.cache
+/home/henrique/Área de trabalho/grafos/graph/obj/Debug/net8.0/graph.AssemblyInfo.cs
+/home/henrique/Área de trabalho/grafos/graph/obj/Debug/net8.0/graph.csproj.CoreCompileInputs.cache
+/home/henrique/Área de trabalho/grafos/graph/obj/Debug/net8.0/graph.dll
+/home/henrique/Área de trabalho/grafos/graph/obj/Debug/net8.0/refint/graph.dll
+/home/henrique/Área de trabalho/grafos/graph/obj/Debug/net8.0/graph.pdb
+/home/henrique/Área de trabalho/grafos/graph/obj/Debug/net8.0/graph.genruntimeconfig.cache
+/home/henrique/Área de trabalho/grafos/graph/obj/Debug/net8.0/ref/graph.dll
+/home/henrique/Documentos/GitHub/grafos/graph/bin/Debug/net8.0/graph
+/home/henrique/Documentos/GitHub/grafos/graph/bin/Debug/net8.0/graph.deps.json
+/home/henrique/Documentos/GitHub/grafos/graph/bin/Debug/net8.0/graph.runtimeconfig.json
+/home/henrique/Documentos/GitHub/grafos/graph/bin/Debug/net8.0/graph.dll
+/home/henrique/Documentos/GitHub/grafos/graph/bin/Debug/net8.0/graph.pdb
+/home/henrique/Documentos/GitHub/grafos/graph/obj/Debug/net8.0/graph.GeneratedMSBuildEditorConfig.editorconfig
+/home/henrique/Documentos/GitHub/grafos/graph/obj/Debug/net8.0/graph.AssemblyInfoInputs.cache
+/home/henrique/Documentos/GitHub/grafos/graph/obj/Debug/net8.0/graph.AssemblyInfo.cs
+/home/henrique/Documentos/GitHub/grafos/graph/obj/Debug/net8.0/graph.csproj.CoreCompileInputs.cache
+/home/henrique/Documentos/GitHub/grafos/graph/obj/Debug/net8.0/graph.dll
+/home/henrique/Documentos/GitHub/grafos/graph/obj/Debug/net8.0/refint/graph.dll
+/home/henrique/Documentos/GitHub/grafos/graph/obj/Debug/net8.0/graph.pdb
+/home/henrique/Documentos/GitHub/grafos/graph/obj/Debug/net8.0/graph.genruntimeconfig.cache
+/home/henrique/Documentos/GitHub/grafos/graph/obj/Debug/net8.0/ref/graph.dll
+/home/henrique/Documentos/GitHub/grafos/Implementation2/c#/bin/Debug/net8.0/graph
+/home/henrique/Documentos/GitHub/grafos/Implementation2/c#/bin/Debug/net8.0/graph.deps.json
+/home/henrique/Documentos/GitHub/grafos/Implementation2/c#/bin/Debug/net8.0/graph.runtimeconfig.json
+/home/henrique/Documentos/GitHub/grafos/Implementation2/c#/bin/Debug/net8.0/graph.dll
+/home/henrique/Documentos/GitHub/grafos/Implementation2/c#/bin/Debug/net8.0/graph.pdb
+/home/henrique/Documentos/GitHub/grafos/Implementation2/c#/obj/Debug/net8.0/graph.GeneratedMSBuildEditorConfig.editorconfig
+/home/henrique/Documentos/GitHub/grafos/Implementation2/c#/obj/Debug/net8.0/graph.AssemblyInfoInputs.cache
+/home/henrique/Documentos/GitHub/grafos/Implementation2/c#/obj/Debug/net8.0/graph.AssemblyInfo.cs
+/home/henrique/Documentos/GitHub/grafos/Implementation2/c#/obj/Debug/net8.0/graph.csproj.CoreCompileInputs.cache
+/home/henrique/Documentos/GitHub/grafos/Implementation2/c#/obj/Debug/net8.0/graph.dll
+/home/henrique/Documentos/GitHub/grafos/Implementation2/c#/obj/Debug/net8.0/refint/graph.dll
+/home/henrique/Documentos/GitHub/grafos/Implementation2/c#/obj/Debug/net8.0/graph.pdb
+/home/henrique/Documentos/GitHub/grafos/Implementation2/c#/obj/Debug/net8.0/graph.genruntimeconfig.cache
+/home/henrique/Documentos/GitHub/grafos/Implementation2/c#/obj/Debug/net8.0/ref/graph.dll
